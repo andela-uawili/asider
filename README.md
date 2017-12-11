@@ -1,2 +1,2 @@
 # asider
-A versatile and lightweight Javascript library that makes working with all kinds of siderbar-style layouts a walk in the park.
+Lightweight Javascript library that makes creating versatile siderbar-style layouts simple and super easy.
